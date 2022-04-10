@@ -1,5 +1,0 @@
-This is first file
- 
-edit for something new
-
-commited for same stage.
